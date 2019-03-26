@@ -6,3 +6,4 @@ TempStatsStore
 benchmark.log*
 result-tpch-hive.txt*
 *.log
+.idea/
